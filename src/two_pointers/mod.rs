@@ -1,2 +1,3 @@
 pub mod lc_0001_two_sum;
+pub mod lc_0003_longest_string_without_douplicate;
 pub mod lc_0005_longest_palindromic_substring;
