@@ -1,3 +1,7 @@
+/**
+ * sorted array of integers
+ * find two numbers such that they add up to a specific target number
+ */
 pub fn two_sum(numbers: Vec<i32>, target: i32) -> Vec<i32> {
     let mut left: usize = 0;
     let mut right: usize = numbers.len() - 1;
