@@ -1,5 +1,3 @@
-use std::hint;
-
 /**
  * nums: array which sorted in ascending order
  * target: T
