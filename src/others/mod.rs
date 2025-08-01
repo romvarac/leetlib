@@ -3,4 +3,5 @@ pub mod lc_0021_merge_sorted_list;
 pub mod lc_0025_palindrome;
 pub mod lc_0121_best_time_buy_sell_stock;
 pub mod lc_0242_anagram;
+pub mod lc_0278_first_bad_version;
 pub mod lc_0741_flood_fill;
